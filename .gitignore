@@ -1,0 +1,4 @@
+data/
+.DS_Store
+datazone-governance-demo.code-workspace
+.vscode/tasks.json
